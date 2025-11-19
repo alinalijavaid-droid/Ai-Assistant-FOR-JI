@@ -1,0 +1,5 @@
+{
+  "name": "CHAT WITH JISPL ai",
+  "description": "A web application to display a website within an iframe and explains the technical limitations of modifying cross-origin iframe content.",
+  "requestFramePermissions": []
+}
